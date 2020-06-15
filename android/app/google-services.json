@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "384746629269",
+    "firebase_url": "https://bookapp-e1871.firebaseio.com",
+    "project_id": "bookapp-e1871",
+    "storage_bucket": "bookapp-e1871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384746629269:android:17ea0c24e2deeb362f539c",
+        "android_client_info": {
+          "package_name": "com.saharukh.boierhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384746629269-00od7biib3ets86hcovvj1mqsbj12g6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbpxmi7-53EG4OL06mpSJQcTcFXQw4Mk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384746629269-00od7biib3ets86hcovvj1mqsbj12g6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
